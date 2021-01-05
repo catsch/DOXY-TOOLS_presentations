@@ -1,7 +1,7 @@
 # DOXY_VirtualMeeting_201120
 ## Direct access to material
 
-- [Global Merged PDF](https://github.com/catsch/DOXY_VirtualMeeting_201120/Merged/DOXY_meeting_201120.pdf)
+- [Global Merged PDF](https://github.com/catsch/DOXY_VirtualMeeting_201120/DOXY_meeting_201120.pdf)
 - [All PDF](https://github.com/catsch/DOXY_VirtualMeeting_201120/PDF/)
 
 
