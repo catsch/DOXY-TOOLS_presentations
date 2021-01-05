@@ -6,7 +6,7 @@
 
 
 ## Aims of the meeting 
-The aim of this meeting is to present the on-going work at Coriolis to provide RT adjustment for the DOXY parameter and to present available tools to perform DM for DOXY for visual control, adjustment estimation and filling DM files.  
+The aim of this meeting is to present the on-going work at Coriolis DAC to provide RT adjustment for the DOXY parameter and to present available tools to perform DM for DOXY for visual control, adjustment estimation and filling DM files.  
 
 *Organizing Committee*
 The conveners include the following people:
