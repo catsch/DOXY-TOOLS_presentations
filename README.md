@@ -2,7 +2,7 @@
 ## Direct access to material
 
 - [Global Merged PDF](https://github.com/catsch/DOXY_VirtualMeeting_201120/blob/main/DOXY_meeting_201120.pdf)
-- [All PDF](https://github.com/catsch/DOXY_VirtualMeeting_201120/PDF/)
+- [All PDF](https://github.com/catsch/DOXY_VirtualMeeting_201120/tree/main/PDF)
 
 
 ## Aims of the meeting 
